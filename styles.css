@@ -1,0 +1,230 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+.navContainer{
+    height: 110px;
+    background-color: #4B5E1E;
+    width:100% ;
+    padding-top: 50px;
+}
+
+#navList{
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+}
+.navText{
+    text-decoration: none;
+    color: black;
+}
+
+.profile-cart{
+max-width:200%;
+height: 15px;
+}
+
+#navItems{
+    display: flex;
+    gap: 40px;
+    
+}
+hr{
+    border:0.5px solid black;
+}
+.menuItems{
+    display: flex;
+    justify-content:center;
+    gap:4rem;
+    padding:10px 10px;
+    text-decoration:none;
+}
+
+
+ .logo-placeholder{
+    max-width:50%;
+    height: 30%;
+}
+ .menuItems-list{
+    font-size:15px;
+    
+}
+.account-info-list{
+list-style: none;
+display: flex;
+direction: column;
+padding: 10px;
+margin: 10px;
+}
+
+
+.body-container{
+    display: flex;
+    direction: column;
+}
+
+.acc-info-list{
+font-family: 'Glacial Indifference', sans-serif;
+margin: 10px;
+padding-top: 20%;
+display: flex;
+text-decoration: none;
+direction: column;
+justify-content:flex-start ;
+align-items: center;
+}
+
+.acc-info-lists{
+    list-style: none;    
+}
+
+.body-container{
+    padding-top: 40px;
+    padding-left: 60px;
+    display: flex;
+    justify-content: start;
+}
+
+.first-name{
+    width:16rem;
+    height: 2.6rem;
+    border-radius: 3px;
+    border: 0.5x solid black;  
+    padding:10px; 
+}
+.first-sec{
+    display: flex;
+    justify-content: center;
+    gap:12rem;     
+}
+
+.form-info{
+    margin-top: 10%;
+}
+.third-four{
+    display: flex;
+    justify-content:space-between;
+    gap:10px;
+}
+#flag-text{
+    width:10rem;
+    margin-left: 1rem;
+}
+
+.personal-info{
+    padding-left: 10%;
+}
+
+section{
+    padding: 70px 13% 0px  90px;
+    background-color: #4B5E1E;
+    margin-top: 17rem;
+    margin-bottom: 0%;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(157px,auto));
+    gap: 3rem;
+}
+
+.footer-content h4{
+ color:white;
+ margin-bottom: 1.5rem;
+ font-size: 15px;
+}
+
+ .footer-content li{
+    margin-bottom: 19px;
+    color: white;
+}
+
+.footer-hr{
+    border: 0.9px solid white;
+    margin-top: 70%;
+    width: 100%;
+}
+.footer-content a{
+    color:white ;
+    font-size: small;
+}
+.payment{
+    margin-bottom: 20px;
+}
+#socials{
+    display: flex;
+    justify-content:space-between;
+    padding-left:48rem;
+  
+    gap:1rem;
+}
+
+#pay-soc{
+    display: flex;
+    justify-content: space-around;
+}
+
+#first-column{
+    padding-left: 8rem;
+
+}
+.logo-footer{
+    height:8.5rem;
+    width: 12rem;
+    padding-left: 20px;
+}
+.footer-text{
+    padding-top: 30px;
+    font-size: small;
+}
+.e-box{
+    width: 13rem;
+    height: 2.4rem;
+    margin-top: 1.7rem;
+}
+#p-apps img{
+    width: 3rem;
+    height: 1.4rem;
+    padding-right:0.1 rem;
+}
+
+#sec-column{
+padding-left: 2.7rem;
+}
+#third-column{
+padding-left: 2rem;
+}
+#three{
+    padding-left: 2.4rem;
+}
+#facebook{
+ margin-right: 5rem;
+}
+
+.india-flag{
+    width: 2rem;
+    height: 2.3rem;
+}
+.flag-flex{
+display: flex;
+}
+.para-text{
+    align-self:flex-end ;
+    margin-top: 0.5rem;
+}
+
+.third-four{
+    display: flex;
+    justify-content: center;
+    gap:13rem;     
+}
+#rupay{
+    width:2rem;
+}
+.below-footer{
+    margin-bottom:100px;
+}
