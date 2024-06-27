@@ -1,0 +1,8 @@
+.top-portion{
+    display: flex;
+}
+
+.rect-image{
+    min-height: 2rem;
+    min-width: 3rem;
+}
